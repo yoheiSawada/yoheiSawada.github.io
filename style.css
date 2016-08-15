@@ -1,0 +1,16 @@
+
+body{
+    margin: 200px 100px;
+    background-color: #f0f8ff;
+    background-image:url(0504_triangle_s.jpg);
+    background-repeat: repeat-x;
+}
+
+h1{
+    text-align: center
+}
+
+p{
+    margin-top: 30px;
+}
+
