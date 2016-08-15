@@ -1,3 +1,4 @@
+@charset "utf-8";
 
 body{
     margin: 200px 100px;
@@ -10,7 +11,12 @@ h1{
     text-align: center
 }
 
-p{
-    margin-top: 30px;
+h2{
+    text-align: center
+    }
+    
+.left{
+    float: left;
+    margin-right: 30px;
 }
 
